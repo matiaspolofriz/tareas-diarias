@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tareas-diarias/static/css/main.2a2d283e.css",
+    "main.js": "/tareas-diarias/static/js/main.6c19f91b.js",
+    "index.html": "/tareas-diarias/index.html",
+    "main.2a2d283e.css.map": "/tareas-diarias/static/css/main.2a2d283e.css.map",
+    "main.6c19f91b.js.map": "/tareas-diarias/static/js/main.6c19f91b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2d283e.css",
+    "static/js/main.6c19f91b.js"
+  ]
+}
